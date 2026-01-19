@@ -1,4 +1,4 @@
-# c-code
+# c++-code
 simple c++ code with oops concept with the use of classes,object and inheritence
 🔹 Description
 This project is a C++ based Hybrid Calculator developed using Object-Oriented Programming (OOP) concepts, especially inheritance.
